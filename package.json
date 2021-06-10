@@ -31,7 +31,7 @@
     "lodash": "^4.17.19",
     "mark.js": "^8.11.1",
     "mobx": "^4.2.0",
-    "polished": "^3.4.1",
+    "polished": "^3.7.1",
     "prismjs": "^1.21.0",
     "promise-polyfill": "^8.1.1",
     "react-dom": "^16.8.6",
